@@ -1,0 +1,4 @@
+training_set.csv – [‘image_names’, ‘emergency_or_not’] contains the image name and correct class for 1646 (70%) train images
+images – contains 2352 images for both train and test sets
+test.csv: [‘image_names’] contains just the image names for the 706 (30%) test images
+sample_submission.csv: [‘image_names’,’emergency_or_not­’] contains the exact format for a valid submission (1 - For Emergency Vehicle, 0 - For Non Emergency Vehicle)
